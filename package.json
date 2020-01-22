@@ -1,0 +1,26 @@
+{
+  "name": "electron_app",
+  "version": "1.0.0",
+  "description": "Getting started with electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLopezJ/electron-app.git"
+  },
+  "keywords": [
+    "Electron",
+    "JavaScript"
+  ],
+  "author": "Mauro Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLopezJ/electron-app/issues"
+  },
+  "homepage": "https://github.com/MLopezJ/electron-app#readme",
+  "devDependencies": {
+    "electron": "^7.1.9"
+  }
+}
