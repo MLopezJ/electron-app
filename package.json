@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/MLopezJ/electron-app#readme",
   "devDependencies": {
-    "electron": "^7.1.9"
+    "electron": "^15.5.5"
   }
 }
